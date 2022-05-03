@@ -16,7 +16,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: Jueves 26 de junio de 2022
 
-<img height="28px" src="accenture>-woBG.jpeg">
+<img height="32px" src="accenture>-woBG.jpeg">
 
 ##### 1ºDAM
 
@@ -32,7 +32,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: Viernes 27 de mayo de 2022
 
-<img height="28px" src="airzone-woBG.png">
+<img height="32px" src="airzone-woBG.png">
 
 ##### 1ºDAM
 
