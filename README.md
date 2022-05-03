@@ -14,82 +14,179 @@ Horarios, índices a los repositorios de alumnos y normas para las presentacione
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
-### :calendar: Jueves 26 de junio de 2022
+### :calendar: día, XX de junio de 2022
 
 <img height="32px" src="accenture>-woBG.png">
 
-##### 1ºDAM
+##### 2ºDAM
 
 * 12:00h [Apellidos, Nombre]()
 * 12:10h [Apellidos, Nombre]()
 
-##### 1ºDAW
+##### 2ºDAW
 
 * 12:20h [Apellidos, Nombre]()
 * 12:30h [Apellidos, Nombre]()
 
 <hr>
 
-### :calendar: Viernes 27 de mayo de 2022
+### :calendar: día, XX de junio de 2022
 
 <img height="32px" src="airzone-woBG.png">
 
-##### 1ºDAM
+##### 2ºDAM
 
 * 12:00h [Apellidos, Nombre]()
 * 12:10h [Apellidos, Nombre]()
 
-##### 1ºDAW
+##### 2ºDAW
 
 * 12:20h [Apellidos, Nombre]()
 * 12:30h [Apellidos, Nombre]()
 
 <hr>
 
-<img height="30px" src="mayoral.svg">
+### :calendar: día, XX de junio de 2022
 
-##### 1ºDAM
+<img height="32px" src="dekra-woBG.png">
 
-* 10:00h [Rodríguez Barcos, Diego]()
+##### 2ºDAM
 
-<hr>
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
 
-<img height="46px" src="opplus.png">
+##### 2ºDAW
 
-##### 1ºDAW
-
-* 10:10h [Muñoz Valenzuela, Miguel Ángel]()
-* 10:20h [Sánchez Rojas, Pablo]()
-
-<hr>
-
-<img height="32px" src="properly.png">
-
-##### 1ºDAM
-
-* 10:30h [Parra Toval, Alberto]()
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
 
 <hr>
 
-<img height="30px" src="dekra.svg">
+### :calendar: día, XX de junio de 2022
 
-##### 1ºDAM
+<img height="32px" src="freepik-woBG.png">
 
-* 10:40h [Antúnez Pérez, David]()
-* 10:50h [Cueto Jiménez, Alejandro]()
-* 11:00h [Benítez Ruiz, José Antonio]()
-* 11:10h [Moreno González, Alberto]()
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
 
 <hr>
 
-<img height="26px" src="nttdata.png">
+### :calendar: día, XX de junio de 2022
 
-##### 1ºDAW
+<img height="32px" src="Future Connections-woBG.png">
 
-* 11:45h [Aguilera García, Alejandro]()
-* 11:55h [González Calderón, Narciso]()
-* 12:05h [Hernández Mangas, Ernesto]()
-* 12:15h [Urbano Ruz, Alfonso]()
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="mayoral-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="Rocketfy-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="summa-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="TraffGen Global-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="Verisk Analytics-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="Viewnext-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
 
 <hr>
 
