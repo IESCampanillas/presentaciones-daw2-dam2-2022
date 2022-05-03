@@ -16,7 +16,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: Jueves 26 de junio de 2022
 
-<img height="32px" src="accenture>-woBG.jpeg">
+<img height="32px" src="accenture>-woBG.png">
 
 ##### 1ºDAM
 
