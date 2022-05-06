@@ -32,6 +32,22 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: día, XX de junio de 2022
 
+<img height="32px" src="NTTGlobal.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
 <img height="32px" src="airzone-woBG.png">
 
 ##### 2ºDAM
