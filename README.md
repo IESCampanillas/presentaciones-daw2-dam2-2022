@@ -32,7 +32,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: día, XX de junio de 2022
 
-<img height="32px" src="NTTGlobal.png">
+<img height="32px" src="NTTData.png">
 
 ##### 2ºDAM
 
