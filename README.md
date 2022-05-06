@@ -214,6 +214,8 @@ La presentación durará aproximadamente 5 minutos, dejando otros 5 minutos para
 
 Los alumnos de una misma empresa deberán estar juntos a la hora que le toque al primero de esa empresa para poder hablar juntos sobre la misma. Por ejemplo, todos los alumnos de Viewnext deberán estar presentes a las 12:00h ya que esa es la hora a la que está citado el primer alumno de dicha empresa.
 
+## Contenido de la presentación
+
 ## :open_file_folder: Contenido de la presentación
 
 La presentación debe tener, como mínimo, el siguiente contenido:
@@ -224,6 +226,8 @@ La presentación debe tener, como mínimo, el siguiente contenido:
 * Conocimientos adquiridos por cada módulo profesional.
 * Valoración de la experiencia dual por parte del alumno.
 
+## Formato de la presentación
+
 ## :bookmark_tabs: Formato de la presentación
 La presentación debe seguir las pautas explicadas en el módulo de Entornos de Desarrollo.
 
@@ -232,6 +236,8 @@ Se puede utilizar cualquier herramienta para elaborar la presentación. El alumn
 Independientemente de la herramienta utilizada para crear y mostrar la presentación, debe haber una versión en pdf en el repositorio de GitHub.
 
 Cualquier material utilizado en la presentación debe estar disponible desde el repositorio de GitHub: presentación original, presentación en formato pdf, enlaces a videos, etc.
+
+## Lugar de la presentación
 
 ## :school: Lugar de la presentación
 
